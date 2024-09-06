@@ -7,7 +7,7 @@ MVP project; limited devoted development time; expect bugs and limited features.
 ## Native System Usage
 
 ```bash
-# Python 3.6+ required. See ## Dev Container for Dockerized development environment instructions.
+# Python 3.6+ required.
 pip install pillow
 
 python collage_builder.py <input_folder_path> <output_image_name>
